@@ -1,0 +1,2 @@
+#Eklenti yükleyebilmek için proxy ve tls verify ayarları
+pip install --proxy http://kullanici_adi:sifre@proxy.tcmb.gov.tr:8080 --trusted-host pypi.org --trusted-host pypi.python.org --trusted-host files.pythonhosted.org pyinstaller
